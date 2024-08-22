@@ -1,3 +1,6 @@
+# install nginx with njs
+https://nginx.org/packages/rhel/8/x86_64/RPMS/
+
 # nginx-njs-log
 
 This is example [docker image](https://hub.docker.com/r/dmikhin/nginx-njs-log) based on official
